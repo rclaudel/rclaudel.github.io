@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 head
 {
 	background-image = url("logo.png")
@@ -64,4 +65,72 @@ p
 }
 p{ font-size 0.9 ex}
 a{color: rgb(133, 109, 77);}
+=======
+head
+{
+	background-image = url("logo.png")
+}
+
+.mef1
+
+{
+background-image: url("Fond.jpg");
+background-size: cover;
+}
+.mef2
+{
+background-image: url("minecraft.jpg");
+background-size: cover;
+}
+.mef3
+{
+	font size 30px;
+  color: black;	
+
+  text-align: center;
+ 
+  text-align: center;
+  
+  
+  
+}
+.mef4
+{text-align:left ;
+color: black;
+text-align:center;
+		}
+.mef5
+{
+	background-image : url("loll.jpg");
+	background-size: cover;
+}
+.mef6
+{
+	
+  color: black;	
+  background-color : rgba(158,158,158,0.3);
+}
+
+div
+	{
+	
+  color: white;}
+	
+h1
+{
+	text-align: center;
+	color : red;
+}
+h2
+{
+	text-align: center;
+	color : white;
+}
+p
+{
+	text-align: center;
+}
+p{ font-size 0.9 ex}
+a{color: rgb(133, 109, 77);}
+>>>>>>> 1c4c0710b833c4d5b4e8f0b3494dabc7811eff80
 b{color: rgb(255, 216, 0);}
