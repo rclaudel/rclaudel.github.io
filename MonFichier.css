@@ -7,10 +7,12 @@ head
 
 {
 background-image: url("Fond.jpg");
+background-image: cover;
 }
 .mef2
 {
 background-image: url("minecraft.jpg");
+background-image: cover;
 }
 .mef3
 {
@@ -32,6 +34,7 @@ text-align:center;
 .mef5
 {
 	background-image : url("loll.jpg");
+	background-image: cover;
 }
 .mef6
 {
