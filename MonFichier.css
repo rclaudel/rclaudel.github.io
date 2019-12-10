@@ -41,10 +41,11 @@ text-align:center;
 	
   color: black;	
   background-color : rgba(158,158,158,0.3);
+  font-size: 1.2em;
 }
 .mef7
 {
-	background-image : url("wow.jfif");
+	background-image : url("wow.jpg");
 	background-size: cover;
 }
 
@@ -67,7 +68,8 @@ p
 {
 	text-align: center;
 }
-p{ font-size 0.9 ex}
+div{ font-size: 1.2em;}
+p{ font-size: 1.2em;}
 a{color: rgb(133, 109, 77);}
 
 
